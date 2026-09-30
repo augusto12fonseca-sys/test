@@ -1,0 +1,8 @@
+{
+  "name": "Remix NexusPulse - Assistente \u0026 Treinador IA",
+  "description": "Assistente inteligente com IA para agendamento no Google Calendar, gestão de tarefas, lembretes de WhatsApp e treinador esportivo personalizado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
